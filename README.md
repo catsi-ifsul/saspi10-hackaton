@@ -31,7 +31,7 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 Todos os links devem estar em uma seção do README da aplicação no seguinte formato:
 - Código em um repositório **fork**
 - Link da aplicação funcional.
-- Video de demonstração explicando a abordagem utilizada para resolver o problema e a interação com a plataforma desenvolvida com no máximo **máximo 5min**. Pode ser hospedado no YouTube como público ou Não listado.
+- Video de demonstração explicando a abordagem utilizada para resolver o problema e a interação com a plataforma desenvolvida com **no máximo 5min**. Pode ser hospedado no YouTube como público ou Não listado.
 
 ## Dicas e sugestões:
 
